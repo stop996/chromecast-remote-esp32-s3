@@ -13,11 +13,11 @@
 
 | 设备 | 本版本配置 |
 | --- | --- |
-| 开发板 |  ESP32 SuperMini，4 MB Flash |
+| 开发板 |  ESP32s3 SuperMini，4 MB Flash |
 | 遥控器 | 以 Chromecast with Google TV 原装 Voice Remote（G9N9N）的按键和 ATVV 语音协议为目标 |
 | 电脑 | Windows，通过支持数据传输的 USB 线连接 ESP32 |
 
-替代遥控器能识别哪些按键、能否收音，取决于它的蓝牙接口。部分遥控器会通过红外发送电源、音量或输入源指令，ESP32 只接收蓝牙数据。 [微雪板卡文档](https://docs.waveshare.com/ESP32-S3-Tiny)
+替代遥控器能识别哪些按键、能否收音，取决于它的蓝牙接口。部分遥控器会通过红外发送电源、音量或输入源指令，ESP32 只接收蓝牙数据。
 
 ## 下载与烧录
 
