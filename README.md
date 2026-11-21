@@ -1,6 +1,6 @@
 # Chromecast Remote for ESP32-S3
 
-用一块微雪 ESP32-S3-Tiny，把 Chromecast with Google TV 的蓝牙遥控器接到 Windows。ESP32 通过一根 USB 数据线提供 **麦克风、键盘、媒体键和调试串口**。
+用一块ESP32-S3，把 Chromecast with Google TV 的蓝牙遥控器接到 Windows。ESP32 通过一根 USB 数据线提供 **麦克风、键盘、媒体键和调试串口**。
 
 ## 功能
 
